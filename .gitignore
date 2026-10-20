@@ -1,0 +1,8 @@
+node_modules/
+.env
+.tmp/
+dist/
+__pycache__/
+.venv/
+tryon-service/Leffa/
+*.log

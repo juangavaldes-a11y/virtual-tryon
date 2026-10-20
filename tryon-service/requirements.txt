@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+# Leffa's own dependencies are installed from Leffa/requirements.txt (see README)

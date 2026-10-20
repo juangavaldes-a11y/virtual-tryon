@@ -1,0 +1,16 @@
+{
+  "name": "tryon-backend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Virtual try-on API (Sails.js + PostgreSQL)",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "sails lift"
+  },
+  "dependencies": {
+    "sails": "^1.5.18",
+    "sails-hook-orm": "^4.0.3",
+    "sails-hook-uploads": "^0.4.3",
+    "sails-postgresql": "^5.0.1"
+  }
+}
